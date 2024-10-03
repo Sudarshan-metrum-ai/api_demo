@@ -6,7 +6,7 @@
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9654",
         "date": "27092024",
-        "file_path": "./9654.csv" 
+        "file_path": "/9654.csv" 
       },
       {    
         "id": "amd_cpu_vllm_9684X",
@@ -14,7 +14,7 @@
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9684X",
         "date": "27092024",
-        "file_path": "./9684X.csv"
+        "file_path": "/9684X.csv"
       },
       {
         "id": "amd_cpu_vllm_9755",
@@ -22,7 +22,7 @@
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9755",
         "date": "27092024",
-        "file_path": "./9755.csv"
+        "file_path": "/9755.csv"
       }
     ]
   }
