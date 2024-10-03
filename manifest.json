@@ -1,13 +1,15 @@
 {
     "datasets": [
-      {
+      {    
+        "id": "amd_cpu_vllm_9654",
         "workload_type": "amd_cpu_vllm",
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9654",
         "date": "27092024",
         "file_path": "./9654.csv" 
       },
-      {
+      {    
+        "id": "amd_cpu_vllm_9684X",
         "workload_type": "amd_cpu_vllm",
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9684X",
@@ -15,6 +17,7 @@
         "file_path": "./9684X.csv"
       },
       {
+        "id": "amd_cpu_vllm_9755",
         "workload_type": "amd_cpu_vllm",
         "models": ["microsoft/Phi-3-mini-4k-instruct", "microsoft/Phi-3.5-mini-instruct", "google/gemma-2b"],
         "sku": "9755",
